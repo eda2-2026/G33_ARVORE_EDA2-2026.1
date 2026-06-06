@@ -1,5 +1,6 @@
 # Biblioteca Digital — Árvore AVL
-Trabalho de Estrutura de Dados
+Sistema de Gerenciamento de Biblioteca para disciplina de EDA2 — Uma aplicação full stack desenvolvida com React que implementa uma Árvore AVL completa do zero como estrutura de dados fundamental para o gerenciamento eficiente do acervo.
+Este sistema foi desenvolvido utilizando a Árvore AVL (Adelson-Velsky e Landis) como estrutura central de dados. A escolha dessa estrutura não é por acaso: as Árvores AVL garantem operações de busca, inserção e remoção com complexidade O(log n), mantendo o balanceamento automático após cada modificação — um requisito crítico para catálogos de bibliotecas que podem crescer significativamente ao longo do tempo.
 
 ## Estrutura do Projeto
 
