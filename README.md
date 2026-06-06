@@ -63,3 +63,21 @@ npm install
 # Copie os arquivos de src/ para o projeto
 npm run dev
 ```
+## Membros do Grupo
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Bgrangeiro">
+        <img src="https://github.com/Bgrangeiro.png" width="100px;" alt="Bgrangeiro"/><br />
+        <sub><b>Bruno Henryque Grangeiro</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jopesmp">
+        <img src="https://github.com/jopesmp.png" width="100px;" alt="jopesmp"/><br />
+        <sub><b>João Pedro Sampaio</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
